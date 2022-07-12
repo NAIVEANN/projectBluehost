@@ -74,7 +74,7 @@ Body{
 .hero-image{
   width: 110%;
   overflow: hidden;
-  object-fit: contain
+  object-fit: contain;
 }
 .Blue{
   background-color: white;
